@@ -1,2 +1,2 @@
 # alittlegenius
-A Little Genius Homepage
+A Little Genius webpage
